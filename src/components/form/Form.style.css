@@ -1,0 +1,13 @@
+label input {
+	margin-left: 2em;
+}
+
+input {
+	height: 2em;
+	margin-right: 1em;
+}
+
+select {
+	margin-left: 2em;
+	height: 2em;
+}
